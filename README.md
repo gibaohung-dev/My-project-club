@@ -1,6 +1,5 @@
 # My project - Great coding project
-hello and welcome to my github page! this page is not finish yet, 
-So here is some rule about my page:
+hello and welcome to my page! this page is not finish yet, So here is some rule about my page:
 - Do not copy my project from my page
 - You guys are allow to share it to your friend
 - If you want to ask me something, feel free to ask me!
