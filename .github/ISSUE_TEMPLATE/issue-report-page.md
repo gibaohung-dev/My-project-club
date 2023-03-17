@@ -7,4 +7,4 @@ assignees: ''
 
 ---
 
-If you find any issue just type it into this report page
+This will show how many issue in this website per report
