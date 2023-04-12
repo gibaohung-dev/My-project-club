@@ -2,7 +2,7 @@
 ### Welcome!
 This repository is about my coding project so that i just post some of my project i have been done or i ongoing with it!
 
-### Table of contents
+### Table of contents:
 1. [Introduction](#introduction)
 2. [Contributors](#contributors)
 3. [About](#about)
